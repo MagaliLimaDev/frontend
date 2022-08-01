@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+:root{
+    width: 100%;
+    min-height: 100vh;
+    --primaria: #ffb200;
+    --secundaria: #222;
+    --preto: #101010;
+    --cinza: #333;
+    --branco: #f2f2f2;  
+}
